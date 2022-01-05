@@ -43,8 +43,9 @@ There are two folders t1, and t2; containing the data of the target markets. Ins
     ├── [2.8M]  train.tsv
     ├── [118K]  valid_qrel.tsv
     └── [4.8M]  valid_run.tsv
+└── [ 17M]  wsdm22.zip
 
-  62M used in 6 directories, 23 files
+  79M used in 6 directories, 25 files
 ```
 
 ## References
